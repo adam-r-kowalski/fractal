@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fractal
+fractal.so
+fractal.dylib
+fractal.dll
+fractal.a
+fractal.lib
+fractal-test-*
+*.exe
+*.o
+*.obj
+*.lst
